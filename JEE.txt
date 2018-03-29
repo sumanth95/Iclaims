@@ -1,0 +1,39 @@
+Jee:
+A specification containing rules and 
+guidlines to develop the Software: or Application.
+Servlet Specs:
+Jsp Specs:
+
+These specifications can be used 
+through 2 ways:
+By Companies to develop the software.
+By you as Programmers to develop 
+Apps.
+For Example:
+We Just have learned 
+Jdbc it is used to connect your java 
+app to database
+Jdbc:It is given as specs under JSE
+Specs:
+How these specs are used through
+2 ways?
+1)By Ibm(Db2) to give you Db2Drivers
+2)By Oracle to give you OracleDrivers
+ Why they are Giving you Db2Drivers?
+To connect to DataBase
+Inside Jdbc:Db2 Drivers are only
+responsible to convert java calls to
+DataBase Calls.
+Hence,Ibm Software Db2 gave you 
+implemented classes of all
+interfaces given by Jdbc(java.sql 
+and javax.sql) and also 
+interfaces of all Db2Drivers.
+Why they have given you
+implemented classes?
+To Connect your java application to
+Db.
+Your classes( or those methods)
+contains logic to interact with Db.
+
+Now,here also 
